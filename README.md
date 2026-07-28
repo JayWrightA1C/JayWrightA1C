@@ -18,7 +18,7 @@
 
 ## Professional Summary
 
-*Add your professional summary above to display it here.*
+Novice IT specialist
 
 ---
 
@@ -26,7 +26,9 @@
 
 🖥️ Tech Essentials: ![Computer Hardware](https://img.shields.io/badge/Computer%20Hardware-2da44e?style=flat-square) ![PC Assembly](https://img.shields.io/badge/PC%20Assembly-2da44e?style=flat-square) ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-2da44e?style=flat-square)
 
-🌐 Networking & Security: ![Network+](https://img.shields.io/badge/Network%2B-2da44e?style=flat-square)
+🌐 Networking & Security: ![DNS](https://img.shields.io/badge/DNS-2da44e?style=flat-square) ![Wi-Fi](https://img.shields.io/badge/Wi--Fi-2da44e?style=flat-square) ![Network+](https://img.shields.io/badge/Network%2B-2da44e?style=flat-square)
+
+💻 Programming Languages & Tools: ![Python](https://img.shields.io/badge/Python-2da44e?style=flat-square) ![Linux CLI](https://img.shields.io/badge/Linux%20CLI-2da44e?style=flat-square)
 
 🔒 Cybersecurity: ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-2da44e?style=flat-square) ![SOC Operations](https://img.shields.io/badge/SOC%20Operations-2da44e?style=flat-square)
 
