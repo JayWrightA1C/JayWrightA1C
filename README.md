@@ -30,7 +30,7 @@ Novice IT specialist
 
 💻 Programming Languages & Tools: ![Python](https://img.shields.io/badge/Python-2da44e?style=flat-square) ![Linux CLI](https://img.shields.io/badge/Linux%20CLI-2da44e?style=flat-square)
 
-🔒 Cybersecurity: ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-2da44e?style=flat-square) ![SOC Operations](https://img.shields.io/badge/SOC%20Operations-2da44e?style=flat-square)
+🔒 Cybersecurity: ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-2da44e?style=flat-square) ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-2da44e?style=flat-square) ![SOC Operations](https://img.shields.io/badge/SOC%20Operations-2da44e?style=flat-square) ![Risk Management](https://img.shields.io/badge/Risk%20Management-2da44e?style=flat-square)
 
 ☁️ Cloud & DevOps: ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-2da44e?style=flat-square) ![Cloud Security](https://img.shields.io/badge/Cloud%20Security-2da44e?style=flat-square) ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-2da44e?style=flat-square)
 
@@ -43,7 +43,7 @@ Novice IT specialist
 
 | Lab / Project | Description | Status | Link |
 |---|---|---|---|
-| Comptia+ | — | ⏳ Pending | — |
+| Comptia+ | — | 🔄 In Progress | — |
 
 </details>
 
