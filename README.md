@@ -30,6 +30,8 @@
 
 🔒 Cybersecurity: ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-2da44e?style=flat-square) ![SOC Operations](https://img.shields.io/badge/SOC%20Operations-2da44e?style=flat-square)
 
+☁️ Cloud & DevOps: ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-2da44e?style=flat-square) ![Cloud Security](https://img.shields.io/badge/Cloud%20Security-2da44e?style=flat-square) ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-2da44e?style=flat-square)
+
 ---
 
 ## Course Portfolio
