@@ -41,7 +41,9 @@ Novice IT specialist
 <details>
 <summary><strong>Course 1: Networking I</strong></summary>
 
-*No labs added yet.*
+| Lab / Project | Description | Status | Link |
+|---|---|---|---|
+| Comptia+ | — | ⏳ Pending | — |
 
 </details>
 
